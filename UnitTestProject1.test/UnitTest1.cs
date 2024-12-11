@@ -34,7 +34,7 @@ namespace UnitTestProject1.test
         public void Fajl_Beolvasas_Lista_Feltoltessel()
         {
             // Act
-            string fajlNev = @"C:\Users\János\Desktop\12_03_Struktúra_konstruktor_személyek_2\ConsoleApp1\ConsoleApp1\bin\Debug\szemelyek.txt";
+            string fajlNev = @"C:\Users\user\Desktop\12_03_Struktúra_konstruktor_személyek_2\ConsoleApp1\ConsoleApp1\bin\Debug\szemelyek.txt";
             int adatokSzama = 10;
             List<Szemely> adatok = new List<Szemely>();
 
